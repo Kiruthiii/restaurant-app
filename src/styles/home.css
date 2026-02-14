@@ -20,8 +20,9 @@
 body {
   background: var(--bg-main);
   color: var(--text-main);
-  font-family: "Dancing Script",cursive;
+  font-family:'Marcellus', serif;
   letter-spacing: 0.2px;
+  
 }
 
 
@@ -88,7 +89,6 @@ body {
   transform: translateY(-2px);
 }
 
-/* ================= HERO ================= */
 
 .logo {
   position: absolute;
@@ -110,7 +110,6 @@ body {
   opacity: 0.7;
 }
 
-/* ================= DESTINATION ================= */
 
 #dest {
   padding: 100px 80px;
@@ -162,7 +161,6 @@ body {
   border-radius: 16px;
 }
 
-/* ================= SIGNATURE DISHES ================= */
 
 #signaturedishes {
   padding: 100px 80px;
@@ -219,7 +217,7 @@ body {
   opacity: 0.9;
 }
 
-/* ================= MENU ================= */
+
 
 #menu {
   padding: 100px 80px;
@@ -270,7 +268,6 @@ body {
   opacity: 0.6;
 }
 
-/* ================= OUR STORY ================= */
 
 #ourstory {
   padding: 100px 80px;

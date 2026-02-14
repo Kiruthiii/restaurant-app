@@ -1,7 +1,7 @@
-/* Page */
+
 .login-page {
   min-height: 100vh;
-  background: #0f0f0f; /* dark background */
+  background: #0f0f0f; 
   padding: 40px 60px;
   display: flex;
   flex-direction: column;
@@ -9,23 +9,7 @@
   color: #eaeaea;
 }
 
-/* Back to home */
-.back-home {
-  position: absolute;
-  top: 24px;
-  left: 40px;
-  font-size: 14px;
-  text-decoration: none;
-  color: #eaeaea;
-  font-weight: 500;
-  z-index: 10;
-}
 
-.back-home:hover {
-  opacity: 0.8;
-}
-
-/* Wrapper */
 .login-wrapper {
   flex: 1;
   display: flex;
@@ -33,7 +17,6 @@
   justify-content: center;
 }
 
-/* Card */
 .login-card {
   background: #181818;
   width: 100%;
@@ -41,14 +24,12 @@
   padding: 60px;
   border-radius: 18px;
   box-shadow: 0 30px 80px rgba(0, 0, 0, 0.6);
-
   display: flex;
   flex-direction: column;
   align-items: center;
   text-align: center;
 }
 
-/* Heading */
 .login-card h2 {
   font-size: 26px;
   margin-bottom: 8px;
@@ -56,7 +37,6 @@
   color: #ffffff;
 }
 
-/* Sub text */
 .head {
   font-size: 15px;
   color: #a0a0a0;
@@ -70,7 +50,6 @@
   width: 100%;
 }
 
-/* Inputs */
 .login-card input {
   width: 100%;
   padding: 14px;
@@ -91,7 +70,6 @@
   border-color: #ffffff;
 }
 
-/* Button */
 .login-card button {
   width: 100%;
   padding: 14px;
@@ -109,7 +87,6 @@
   opacity: 0.85;
 }
 
-/* Create account */
 .create {
   max-width: 420px;
   margin: 28px auto 0;

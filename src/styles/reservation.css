@@ -1,4 +1,4 @@
-/* ---------- SELECT (TABLE TYPE) ---------- */
+
 
 form select {
   width: 100%;
@@ -33,7 +33,7 @@ form select option {
   color: #f1efe9;
 }
 
-/* ---------- CARD ELEVATION (ROYAL FINISH) ---------- */
+
 
 .form-card {
   position: relative;

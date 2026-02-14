@@ -7,11 +7,15 @@
 .footer-wrapper {
   max-width: 1200px;
   margin: 0 auto;
-
   display: flex;
-  justify-content: space-between;
-  flex-wrap: wrap;
+  justify-content:center;
+  align-items: center;   
   gap: 40px;
+}
+
+.footer-col {
+  flex: 1;                  
+  min-width: 220px;        
 }
 
 .footer-col h3,
