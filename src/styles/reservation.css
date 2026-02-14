@@ -1,0 +1,55 @@
+/* ---------- SELECT (TABLE TYPE) ---------- */
+
+form select {
+  width: 100%;
+  padding: 14px 16px;
+  margin-bottom: 18px;
+
+  background: linear-gradient(180deg, #0c0c0c, #0a0a0a);
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  border-radius: 8px;
+
+  font-size: 14px;
+  font-weight: 500;
+  color: #f1efe9;
+  letter-spacing: 0.3px;
+
+  outline: none;
+  appearance: none;
+  transition: all 0.25s ease;
+}
+
+form select:hover {
+  border-color: rgba(201, 162, 77, 0.45);
+}
+
+form select:focus {
+  border-color: #c9a24d;
+  box-shadow: 0 0 0 2px rgba(201, 162, 77, 0.18);
+}
+
+form select option {
+  background: #121212;
+  color: #f1efe9;
+}
+
+/* ---------- CARD ELEVATION (ROYAL FINISH) ---------- */
+
+.form-card {
+  position: relative;
+  background: #141414;
+  border-radius: 16px;
+  box-shadow: 0 30px 80px rgba(0, 0, 0, 0.75);
+}
+
+.form-card::after {
+  content: "";
+  position: absolute;
+  inset: -1px;
+  border-radius: 16px;
+  pointer-events: none;
+
+  box-shadow:
+    inset 0 0 0 1px rgba(255, 255, 255, 0.05),
+    inset 0 0 0 2px rgba(201, 162, 77, 0.06);
+}
