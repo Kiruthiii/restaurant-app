@@ -25,10 +25,6 @@ const Login = () => {
 
   return (
     <section className="login-page">
-      <Link to="/" className="back-home">
-        ← Back to Home
-      </Link>
-
       <div className="login-wrapper">
         <div className="login-card">
           <h2>Member Login</h2>

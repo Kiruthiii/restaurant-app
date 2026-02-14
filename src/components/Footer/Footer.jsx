@@ -18,7 +18,7 @@ const Footer = () => {
           <h4>Contact</h4>
           <p>
             <i className="fa-solid fa-phone"></i>
-            +91 9XXXXXXXXX<br />
+            +91 9XXXXXXXXX<br/>
             <i className="fa-solid fa-envelope"></i>
             reservations@thefinedine.com
           </p>

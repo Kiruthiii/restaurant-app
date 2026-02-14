@@ -13,10 +13,10 @@ const Home = () => {
           </div>
 
           <div className="topright">
-            <a href="/login" className="login-btn">Login</a>
+            {/* <a href="/login" className="login-btn">Login</a>
             <a href="/reservation">
               <button>Book a Table</button>
-            </a>
+            </a> */}
           </div>
         </div>
 

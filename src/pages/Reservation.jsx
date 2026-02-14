@@ -21,7 +21,7 @@ const Reservation = () => {
 
   return (
     <section className="form-page">
-      <a href="/" className="back-home">← Back to Home</a>
+
 
       <div className="form-card">
         <h2>Book a Table</h2>

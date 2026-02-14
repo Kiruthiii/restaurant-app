@@ -32,9 +32,6 @@ const CreateAccount = () => {
 
   return (
     <section className="form-page">
-      <Link to="/" className="back-home">
-          ← Back to Home
-        </Link>
       <div className="form-card">
         <h2>Create Account</h2>
 

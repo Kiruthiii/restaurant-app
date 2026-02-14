@@ -7,7 +7,7 @@ function Navbar() {
       <div className="navbar-container">
 
         <div className="navbar-brand">
-          Royal Feast
+          The Fine Dine
         </div>
 
         <nav className="navbar-links">
