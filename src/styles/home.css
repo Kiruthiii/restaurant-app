@@ -208,14 +208,7 @@ body {
   opacity: 0.65;
 }
 
-.dish a {
-  display: inline-block;
-  margin-top: 12px;
-  font-size: 14px;
-  text-decoration: none;
-  color: var(--accent-gold);
-  opacity: 0.9;
-}
+
 
 
 
@@ -302,21 +295,3 @@ body {
 }
 
 
-.menu-cta {
-  text-align: center;
-  margin-top: 40px;
-}
-
-.menu-cta a {
-  font-size: 14px;
-  text-decoration: none;
-  color: rgba(255,255,255,0.75);
-  border-bottom: 1px solid rgba(201,162,77,0.5);
-  padding-bottom: 5px;
-  transition: all 0.3s ease;
-}
-
-.menu-cta a:hover {
-  color: var(--accent-gold);
-  border-color: var(--accent-gold);
-}

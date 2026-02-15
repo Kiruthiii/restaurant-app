@@ -77,7 +77,6 @@
   color: gray;
 }
 
-/* Action */
 .menu-action {
   text-align: right;
 }
@@ -97,7 +96,6 @@
   cursor: pointer;
 }
 
-/* Quantity Controls */
 .qty-controls {
   display: flex;
   align-items: center;
@@ -114,7 +112,6 @@
   border-radius: 5px;
 }
 
-/* Order Summary */
 .order-summary {
   position: fixed;
   bottom: 20px;

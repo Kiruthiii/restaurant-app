@@ -68,7 +68,7 @@ const Home = () => {
             />
             <h3>Murgh Dum Biryani</h3>
             <p>Saffron-kissed basmati rice slow-cooked with tender chicken.</p>
-            <a href="/DigitalMenu">View in Digital Menu</a>
+           
 
           </div>
 
@@ -79,7 +79,7 @@ const Home = () => {
             />
             <h3>Galouti Kebab</h3>
             <p>Melt-in-the-mouth lamb delicacy from Awadhi cuisine.</p>
-            <a href="/DigitalMenu">View in Digital Menu</a>
+            
 
           </div>
 
@@ -90,7 +90,7 @@ const Home = () => {
             />
             <h3>Alappuzha Fish Curry</h3>
             <p>Coastal fish simmered in a tangy coconut-tamarind gravy.</p>
-            <a href="/DigitalMenu">View in Digital Menu</a>
+  
 
           </div>
         </div>
@@ -179,9 +179,7 @@ const Home = () => {
           <p className="menu-note">
             Menus are subject to seasonal availability.
           </p>
-          <div className="menu-cta">
-  <a href="/DigitalMenu">View Full Digital Menu</a>
-</div>
+      
         </div>
       </div>
 
